@@ -21,5 +21,6 @@ public class Rates_pom {
 	System.out.println(yourprop);
 	String plan=plantype.getText();
 	System.out.println(plan);
+		System.out.println("Check");
 	}
 }
