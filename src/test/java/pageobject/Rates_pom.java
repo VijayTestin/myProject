@@ -23,5 +23,7 @@ public class Rates_pom {
 	System.out.println(plan);
 		System.out.println("Check");
 		System.out.println("Check1");
+		System.out.println("Check2");
+		
 	}
 }
