@@ -33,6 +33,7 @@ public class login_pom {
 	}
 public void clicksignin() {
 	submit.click();
+	System.out.println("button clicked");
 }
 	
 public void printerror() {
