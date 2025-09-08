@@ -23,7 +23,7 @@ public class login_pom {
 		
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
-		System.out.println("");
+		System.out.println("Driver initiated");
 	}
 	public void clicklogin() {
 		home_login.click();
@@ -34,7 +34,7 @@ public class login_pom {
 	}
 public void clicksignin() {
 	submit.click();
-	System.out.println("button clicked");
+	System.out.println("button clicked and navigated to Dashboard");
 }
 	
 public void printerror() {
