@@ -24,6 +24,7 @@ public class login_pom {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
 		System.out.println("Driver initiated");
+		System.out.println("Just for checking");
 	}
 	public void clicklogin() {
 		home_login.click();
